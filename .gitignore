@@ -1,0 +1,8 @@
+# SPSS temporary and backup files
+*.sav.bak
+*.spv.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
