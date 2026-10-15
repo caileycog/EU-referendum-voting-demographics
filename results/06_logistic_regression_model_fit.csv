@@ -1,0 +1,12 @@
+statistic,value
+n (complete cases),3978
+Remain,2457
+Leave,1521
+-2 log likelihood,4661.312
+Omnibus chi-square (df = 18),631.053
+Cox & Snell R squared,0.147
+Nagelkerke R squared,0.199
+"Classification accuracy, cut-off 0.5 (%)",69.3
+"Baseline accuracy, always predict Remain (%)",61.8
+Leave voters correctly classified (%),50.6
+Remain voters correctly classified (%),80.9

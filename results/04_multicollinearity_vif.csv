@@ -1,0 +1,19 @@
+predictor,tolerance,vif
+Age_EURef=25-34,0.459,2.181
+Age_EURef=35-50,0.38,2.633
+Age_EURef=51-64,0.356,2.805
+Age_EURef=65+,0.455,2.196
+SexofResp=Male,0.978,1.023
+Location=South East and South West England,0.382,2.617
+Location=Midlands and East of England,0.385,2.599
+"Location=North East, North West, Yorkshire and The Humber",0.385,2.595
+Location=Wales,0.693,1.443
+Location=Scotland,0.58,1.723
+Religion=Non-Christian,0.929,1.077
+Religion=Other Christian,0.857,1.166
+Religion=Roman Catholic,0.922,1.084
+Religion=Church of England/Anglican,0.842,1.188
+"Education=Other higher education (HNC, HND, diplomas)",0.874,1.144
+Education=A-levels or equivalent,0.899,1.112
+Education=Below A-levels (GCSE or equivalent),0.833,1.201
+Education=No qualifications,0.888,1.126

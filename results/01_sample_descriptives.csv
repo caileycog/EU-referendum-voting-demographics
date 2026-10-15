@@ -1,0 +1,32 @@
+variable,category,n,valid_percent
+EU Referendum vote,Remain,2531,61.6
+EU Referendum vote,Leave,1580,38.4
+EU Referendum vote,Missing / excluded,1467,
+Age at 2016 referendum,18-24,566,10.8
+Age at 2016 referendum,25-34,927,17.7
+Age at 2016 referendum,35-50,1442,27.6
+Age at 2016 referendum,51-64,1520,29.0
+Age at 2016 referendum,65+,778,14.9
+Age at 2016 referendum,Missing / excluded,345,
+Sex,Female,3177,57.0
+Sex,Male,2397,43.0
+Sex,Missing / excluded,4,
+Region,London,610,10.9
+Region,South East and South West England,1387,24.9
+Region,Midlands and East of England,1397,25.0
+Region,"North East, North West, Yorkshire and The Humber",1399,25.1
+Region,Wales,288,5.2
+Region,Scotland,497,8.9
+Region,Missing / excluded,0,
+Religion,No religion,2808,51.1
+Religion,Non-Christian,329,6.0
+Religion,Other Christian,1236,22.5
+Religion,Roman Catholic,410,7.5
+Religion,Church of England/Anglican,716,13.0
+Religion,Missing / excluded,79,
+Highest qualification,"Degree or equivalent, and above",2478,45.6
+Highest qualification,"Other higher education (HNC, HND, diplomas)",786,14.4
+Highest qualification,A-levels or equivalent,706,13.0
+Highest qualification,Below A-levels (GCSE or equivalent),1042,19.2
+Highest qualification,No qualifications,428,7.9
+Highest qualification,Missing / excluded,138,

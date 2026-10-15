@@ -1,0 +1,24 @@
+factor,group,remain_n,remain_pct,leave_n,leave_pct,total
+Age at 2016 referendum,18-24,271,80.2,67,19.8,338
+Age at 2016 referendum,25-34,422,70.9,173,29.1,595
+Age at 2016 referendum,35-50,679,62.6,406,37.4,1085
+Age at 2016 referendum,51-64,784,58.7,551,41.3,1335
+Age at 2016 referendum,65+,347,48.4,370,51.6,717
+Sex,Female,1431,63.1,836,36.9,2267
+Sex,Male,1100,59.7,744,40.3,1844
+Region,London,286,74.9,96,25.1,382
+Region,South East and South West England,637,60.5,416,39.5,1053
+Region,Midlands and East of England,556,53.6,482,46.4,1038
+Region,"North East, North West, Yorkshire and The Humber",613,59.3,421,40.7,1034
+Region,Wales,129,61.7,80,38.3,209
+Region,Scotland,310,78.5,85,21.5,395
+Religion,No religion,1385,68.4,640,31.6,2025
+Religion,Non-Christian,117,66.5,59,33.5,176
+Religion,Other Christian,518,54.4,434,45.6,952
+Religion,Roman Catholic,181,62.2,110,37.8,291
+Religion,Church of England/Anglican,308,48.2,331,51.8,639
+Highest qualification,"Degree or equivalent, and above",1495,77.4,436,22.6,1931
+Highest qualification,"Other higher education (HNC, HND, diplomas)",356,59.2,245,40.8,601
+Highest qualification,A-levels or equivalent,240,51.2,229,48.8,469
+Highest qualification,Below A-levels (GCSE or equivalent),308,41.6,433,58.4,741
+Highest qualification,No qualifications,101,34.5,192,65.5,293

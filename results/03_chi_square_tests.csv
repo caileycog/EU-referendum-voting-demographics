@@ -1,0 +1,6 @@
+factor,n,pearson_chi2,df,p_value,likelihood_ratio,linear_by_linear_df1,linear_by_linear_p,continuity_correction_2x2
+Age at 2016 referendum,4070,128.987,4,<.001,133.297,125.082,<.001,
+Sex,4111,5.175,1,0.023,5.17,5.174,0.023,5.029
+Region,4111,107.207,5,<.001,112.501,4.092,0.043,
+Religion,4083,110.441,4,<.001,109.83,93.941,<.001,
+Highest qualification,4035,445.584,4,<.001,451.852,433.612,<.001,
